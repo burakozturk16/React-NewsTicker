@@ -4,7 +4,7 @@ import Ticker from "./components/Ticker";
 
 class App extends React.Component {
     finito(){
-        //alert("bitti lan");
+        //alert("bitti");
     };
 
     render() {
